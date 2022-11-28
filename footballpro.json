@@ -9,7 +9,7 @@
       "teamBName": "England",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": false,
       "timeStamp": ""
     },
@@ -50,5 +50,5 @@
       "timeStamp": "2022-11-13 01:00 PM +0500"
     }
   ],
-  "appLink": "Let's watch cricket on Live Cricket Pro! It's a fast, and simple app we can use to watch live cricket for free. Get it at https://mindbuffersports.page.link/cricket"
+  "appLink": "Let's watch football on Live Football Pro! It's a fast, and simple app we can use to watch live football for free. Get it at https://livefootballpro.page.link/football"
 }
