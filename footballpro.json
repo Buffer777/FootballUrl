@@ -50,8 +50,8 @@
     }
   ],
   "removedPackages": [
-    com.mindbuffersports.criclive0,
-    com.mindbuffersports.criclive1
+    "com.mindbuffersports.criclive0",
+    "com.mindbuffersports.criclive1"
   ],
   "newDownloadLink": "https://www.google.com/",
   "appLink": "Let's watch football on Live Football Pro! It's a fast, and simple app we can use to watch live football for free. Get it at https://livefootballpro.page.link/football"
