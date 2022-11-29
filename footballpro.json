@@ -1,14 +1,14 @@
 {
   "liveNow": [
     {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=usafox1",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
       "teamAName": "Pakistan",
       "teamBName": "England",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": false,
       "timeStamp": ""
     },
@@ -20,7 +20,7 @@
       "teamBName": "England",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": false,
       "timeStamp": ""
     },
@@ -32,7 +32,7 @@
       "teamBName": "England",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive": true,
+      "isLive": false,
       "isVs": false,
       "timeStamp": ""
     },
