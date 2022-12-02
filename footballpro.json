@@ -2,10 +2,10 @@
   "liveNow": [
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-      "teamAName": "Pakistan",
-      "teamBName": "England",
+      "teamAImagePath": "",
+      "teamBImagePath": "",
+      "teamAName": "Portugal",
+      "teamBName": "South Korea",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
@@ -13,11 +13,11 @@
       "timeStamp": ""
     },
     {
-      "link": "https://123ecast.me/embed.php?player=desktop&v=tsn1ca&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-      "teamAName": "Pakistan",
-      "teamBName": "England",
+      "link": "https://123ecast.me/embed.php?player=desktop&v=tsn2ca&vw=100%&vh=100%",
+      "teamAImagePath": "",
+      "teamBImagePath": "",
+      "teamAName": "Ghana",
+      "teamBName": "Uruguay",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
