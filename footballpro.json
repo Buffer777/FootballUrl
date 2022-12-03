@@ -2,8 +2,8 @@
   "liveNow": [
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
-      "teamAImagePath": "",
-      "teamBImagePath": "",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
       "teamAName": "Netherlands",
       "teamBName": "Usa",
       "bannerImagePath": "",
@@ -14,8 +14,8 @@
     },
     {
       "link": "https://123ecast.me/embed.php?player=mobile&v=tsn2ca&vw=100%&vh=100%",
-      "teamAImagePath": "",
-      "teamBImagePath": "",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
       "teamAName": "Netherlands",
       "teamBName": "Usa",
       "bannerImagePath": "",
