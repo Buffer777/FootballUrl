@@ -2,27 +2,27 @@
   "liveNow": [
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
-      "teamAName": "Argentina",
-      "teamBName": "Australia",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png",
+      "teamAName": "France",
+      "teamBName": "Poland",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-12-04 00:00 AM +0500"
+      "timeStamp": "2022-12-04 20:00 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=mobile&v=asports&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
-      "teamAName": "Argentina",
-      "teamBName": "Australia",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png",
+      "teamAName": "France",
+      "teamBName": "Poland",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-12-04 00:00 AM +0500"
+      "timeStamp": "2022-12-04 20:00 PM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
