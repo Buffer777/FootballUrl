@@ -20,7 +20,7 @@
       "teamBName": "France",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": "2022-12-18 08:00 PM +0500"
     },
