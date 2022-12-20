@@ -9,8 +9,8 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2022-12-18 08:00 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=tsn1ca&vw=100%&vh=100%",
@@ -20,9 +20,9 @@
       "teamBName": "France",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
-      "timeStamp": "2022-12-18 08:00 PM +0500"
+      "timeStamp": ""
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
