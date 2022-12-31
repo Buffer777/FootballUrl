@@ -2,15 +2,15 @@
   "liveNow": [
      {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bein1en",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/C3J47ea36cMBc4XPbp9aaA_96x96.png",
-      "teamAName": "Man City",
-      "teamBName": "Everton",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+      "teamAName": "Brighton",
+      "teamBName": "Arsenal",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-12-31 08:00 PM +0500"
+      "timeStamp": "2022-12-31 10:45 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp1",
@@ -20,7 +20,7 @@
       "teamBName": "Man United",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2022-12-31 05:30 PM +0500"
     },
