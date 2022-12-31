@@ -9,8 +9,8 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2022-12-31 10:45 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp1",
@@ -20,9 +20,9 @@
       "teamBName": "Man United",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2022-12-31 05:30 PM +0500"
+      "isLive": true,
+      "isVs": false,
+      "timeStamp": ""
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
