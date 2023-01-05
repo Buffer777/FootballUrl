@@ -8,7 +8,7 @@
       "teamBName": "Nottm Forest",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-05 00:30 AM +0500"
     },
@@ -21,8 +21,8 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-01-05 00:45 AM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
      {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bein2en",
@@ -32,7 +32,7 @@
       "teamBName": "Wolves",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-05 01:00 AM +0500"
     },
@@ -45,8 +45,8 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-01-05 01:00 AM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
