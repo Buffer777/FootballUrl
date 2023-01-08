@@ -1,7 +1,7 @@
 {
   "liveNow": [
      {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=itv4",
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysprem",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-WjHLbBIQO9xE2e2MW3OPQ_96x96.png",
       "teamAName": "Liverpool",
@@ -9,8 +9,8 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2022-12-08 01:00 AM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bein3prem",
