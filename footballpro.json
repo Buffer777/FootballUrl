@@ -20,7 +20,7 @@
       "teamBName": "West Ham",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-14 08:00 PM +0500"
     },
@@ -32,7 +32,7 @@
       "teamBName": "Leicester City",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-14 08:00 PM +0500"
     },
@@ -45,7 +45,7 @@
       "teamBName": "Liverpool",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-14 08:00 PM +0500"
     },
@@ -57,7 +57,7 @@
       "teamBName": "Southampton",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-14 08:00 PM +0500"
     },
