@@ -8,7 +8,7 @@
     "teamBName": "Chelsea",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-01-21 05:30 PM +0500"
   },
@@ -20,7 +20,7 @@
     "teamBName": "Brighton",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-01-21 08:00 PM +0500"
   },
@@ -32,7 +32,7 @@
     "teamBName": "Aston Villa",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-01-21 08:00 PM +0500"
   },
@@ -44,7 +44,7 @@
     "teamBName": "Everton",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-01-21 08:00 PM +0500"
   },
@@ -56,7 +56,7 @@
     "teamBName": "Nottm Forest",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-01-21 08:00 PM +0500"
   },
